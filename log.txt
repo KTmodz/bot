@@ -1,0 +1,180 @@
+UserID: 1674724304 | Time: 2024-06-19 23:55:13.126132 | Command: /mkc | Target: 20.235.148.220 | Port: 20811 | Time: 300
+Username: @KHALID_MODZ2
+Target: 20.235.148.220
+Port: 20811
+Time: 300
+
+UserID: 1674724304 | Time: 2024-06-19 23:55:45.269545 | Command: /mkc | Target: 20.235.148.220 | Port: 20811 | Time: 300
+Username: @KHALID_MODZ2
+Target: 20.235.148.220
+Port: 20811
+Time: 300
+
+UserID: 1674724304 | Time: 2024-06-19 23:58:48.510133 | Command: /mkc | Target: 20.235.148.220 | Port: 20811 | Time: 300
+Username: @KHALID_MODZ2
+Target: 20.235.148.220
+Port: 20811
+Time: 300
+
+UserID: 1674724304 | Time: 2024-06-20 00:02:33.853187 | Command: /mkc | Target: 20.235.148.220 | Port: 20811 | Time: 300
+Username: @KHALID_MODZ2
+Target: 20.235.148.220
+Port: 20811
+Time: 300
+
+UserID: 1674724304 | Time: 2024-06-20 00:05:23.394669 | Command: /mkc | Target: 20.235.148.220 | Port: 20811 | Time: 300
+Username: @KHALID_MODZ2
+Target: 20.235.148.220
+Port: 20811
+Time: 300
+
+UserID: 1674724304 | Time: 2024-06-20 00:06:56.411417 | Command: /mkc | Target: 20.235.148.220 | Port: 20811 | Time: 300
+Username: @KHALID_MODZ2
+Target: 20.235.148.220
+Port: 20811
+Time: 300
+
+UserID: 1674724304 | Time: 2024-06-20 00:08:47.722014 | Command: /mkc | Target: 20.235.148.220 | Port: 20811 | Time: 300
+Username: @KHALID_MODZ2
+Target: 20.235.148.220
+Port: 20811
+Time: 300
+
+Username: @KHALID_MODZ2
+Target: 20.235.148.220
+Port: 20811
+Time: 300
+
+Username: @KHALID_MODZ2
+Target: 20.235.148.220
+Port: 20811
+Time: 300
+
+Username: @KHALID_MODZ2
+Target: 20.235.148.220
+Port: 20811
+Time: 300
+
+Username: @KHALID_MODZ2
+Target: 20.235.148.220
+Port: 20811
+Time: 300
+
+Username: @KHALID_MODZ2
+Target: 20.235.148.220
+Port: 20811
+Time: 300
+
+Username: @KHALID_MODZ2
+Target: 20.235.148.220
+Port: 20811
+Time: 10
+
+UserID: 1674724304 | Time: 2024-06-20 00:33:00.527072 | Command: /mkc | Target: 20.235.148.220 | Port: 20811 | Time: 10
+Username: @KHALID_MODZ2
+Target: 20.235.148.220
+Port: 20811
+Time: 10
+
+UserID: 1674724304 | Time: 2024-06-20 00:33:37.288538 | Command: /mkc | Target: 20.235.148.220 | Port: 20811 | Time: 300
+Username: @KHALID_MODZ2
+Target: 20.235.148.220
+Port: 20811
+Time: 300
+
+UserID: 1674724304 | Time: 2024-06-20 00:34:38.216537 | Command: /mkc | Target: 20.235.148.220 | Port: 20811 | Time: 10
+Username: @KHALID_MODZ2
+Target: 20.235.148.220
+Port: 20811
+Time: 10
+
+UserID: 1674724304 | Time: 2024-06-20 11:44:33.030396 | Command: /bgmi | Target: 20.235.148.220 | Port: 20811 | Time: 300
+Username: @KHALID_MODZ2
+Target: 20.235.148.220
+Port: 20811
+Time: 300
+
+UserID: 1674724304 | Time: 2024-06-20 11:46:13.230099 | Command: /bgmi | Target: 20.235.148.220 | Port: 20811 | Time: 3
+Username: @KHALID_MODZ2
+Target: 20.235.148.220
+Port: 20811
+Time: 3
+
+UserID: 1674724304 | Time: 2024-06-20 11:46:36.952415 | Command: /bgmi | Target: 20.235.148.220 | Port: 20811 | Time: 30
+Username: @KHALID_MODZ2
+Target: 20.235.148.220
+Port: 20811
+Time: 30
+
+UserID: 1674724304 | Time: 2024-06-20 11:49:24.580087 | Command: /bgmi | Target: 20.235.148.220 | Port: 20811 | Time: 20
+Username: @KHALID_MODZ2
+Target: 20.235.148.220
+Port: 20811
+Time: 20
+
+UserID: 7364889435 | Time: 2024-06-20 12:00:31.707802 | Command: /bgmi | Target: 20.235.148.220 | Port: 20811 | Time: 20
+Username: @sggs_karo
+Target: 20.235.148.220
+Port: 20811
+Time: 20
+
+UserID: 7364889435 | Time: 2024-06-20 12:01:18.107193 | Command: /bgmi | Target: 20.235.148.220 | Port: 20811 | Time: 20
+Username: @sggs_karo
+Target: 20.235.148.220
+Port: 20811
+Time: 20
+
+UserID: 7364889435 | Time: 2024-06-20 12:01:54.612135 | Command: /bgmi | Target: 20.235.148.220 | Port: 20811 | Time: 20
+Username: @sggs_karo
+Target: 20.235.148.220
+Port: 20811
+Time: 20
+
+UserID: 7364889435 | Time: 2024-06-20 12:02:28.765747 | Command: /bgmi | Target: 20.235.148.220 | Port: 20811 | Time: 20
+Username: @sggs_karo
+Target: 20.235.148.220
+Port: 20811
+Time: 20
+
+UserID: 7364889435 | Time: 2024-06-20 12:02:37.478084 | Command: /bgmi | Target: 20.235.148.220 | Port: 20811 | Time: 30
+Username: @sggs_karo
+Target: 20.235.148.220
+Port: 20811
+Time: 30
+
+UserID: 7364889435 | Time: 2024-06-20 12:11:33.425031 | Command: /bgmi | Target: 20.235.148.220 | Port: 20811 | Time: 20
+Username: @sggs_karo
+Target: 20.235.148.220
+Port: 20811
+Time: 20
+
+UserID: 7364889435 | Time: 2024-06-20 12:12:21.455723 | Command: /bgmi | Target: 20.235.148.220 | Port: 20811 | Time: 20
+Username: @sggs_karo
+Target: 20.235.148.220
+Port: 20811
+Time: 20
+
+UserID: 7364889435 | Time: 2024-06-20 12:13:25.987919 | Command: /bgmi | Target: 20.235.148.220 | Port: 20811 | Time: 20
+Username: @sggs_karo
+Target: 20.235.148.220
+Port: 20811
+Time: 20
+
+UserID: 7364889435 | Time: 2024-06-20 12:14:41.746141 | Command: /bgmi | Target: 20.235.148.220 | Port: 20811 | Time: 20
+Username: @sggs_karo
+Target: 20.235.148.220
+Port: 20811
+Time: 20
+
+UserID: 7364889435 | Time: 2024-06-20 12:15:29.564348 | Command: /bgmi | Target: 20.235.148.220 | Port: 20811 | Time: 20
+Username: @sggs_karo
+Target: 20.235.148.220
+Port: 20811
+Time: 20
+
+UserID: 7364889435 | Time: 2024-06-20 12:19:33.792274 | Command: /bgmi | Target: 20.235.148.220 | Port: 20811 | Time: 20
+Username: @sggs_karo
+Target: 20.235.148.220
+Port: 20811
+Time: 20
+
